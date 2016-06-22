@@ -1,7 +1,8 @@
 body{
-	background-image: url("../img/veg.gif");
-	color: yellow;
-	font-family: Comic Sans MS;
+	background-color: lightblue;
+	color: black;
+	font-family: sans-serif;
+	text-align: center;
 }
 
 img.face{
@@ -10,13 +11,13 @@ img.face{
 }
 
 #food{
-	color: red;
+	color: black;
 }
 
 #game{
-	color: white;
+	color: black;
 }
 
 #sport{
-	color: blue;
+	color: black;
 }
